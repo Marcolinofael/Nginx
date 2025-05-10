@@ -1,0 +1,119 @@
+2025/05/10 00:35:37 [error] 187#187: *80 open() "/var/www/html/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:38 [error] 187#187: *80 open() "/var/www/html/xmlrpc.php" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /xmlrpc.php?rsd HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:39 [error] 187#187: *80 open() "/var/www/html/blog/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /blog/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:40 [error] 187#187: *80 open() "/var/www/html/web/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /web/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:40 [error] 187#187: *80 open() "/var/www/html/wordpress/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /wordpress/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:41 [error] 187#187: *80 open() "/var/www/html/website/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /website/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:42 [error] 187#187: *80 open() "/var/www/html/wp/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /wp/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:42 [error] 187#187: *80 open() "/var/www/html/news/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /news/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:43 [error] 187#187: *80 open() "/var/www/html/2018/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /2018/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:43 [error] 187#187: *80 open() "/var/www/html/2019/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /2019/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:44 [error] 187#187: *80 open() "/var/www/html/shop/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /shop/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:45 [error] 187#187: *80 open() "/var/www/html/wp1/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /wp1/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:45 [error] 187#187: *80 open() "/var/www/html/test/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /test/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:46 [error] 187#187: *80 open() "/var/www/html/media/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /media/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:47 [error] 187#187: *80 open() "/var/www/html/wp2/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /wp2/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:47 [error] 187#187: *80 open() "/var/www/html/site/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /site/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:48 [error] 187#187: *80 open() "/var/www/html/cms/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /cms/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:35:48 [error] 187#187: *80 open() "/var/www/html/sito/wp-includes/wlwmanifest.xml" failed (2: No such file or directory), client: 178.128.208.65, server: localhost-nginx-proxy-manager, request: "GET /sito/wp-includes/wlwmanifest.xml HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:38:34 [error] 187#187: *100 open() "/var/www/html/wp-admin/setup-config.php" failed (2: No such file or directory), client: 172.68.10.46, server: localhost-nginx-proxy-manager, request: "GET /wp-admin/setup-config.php HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *125 open() "/var/www/html/@vite/env" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /@vite/env HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *127 open() "/var/www/html/actuator/env" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /actuator/env HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *129 open() "/var/www/html/server" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /server HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *131 open() "/var/www/html/.vscode/sftp.json" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /.vscode/sftp.json HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *134 open() "/var/www/html/about" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /about HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *136 open() "/var/www/html/debug/default/view" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /debug/default/view?panel=config HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *138 open() "/var/www/html/v2/_catalog" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /v2/_catalog HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *140 open() "/var/www/html/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *142 open() "/var/www/html/server-status" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /server-status HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:10 [error] 211#211: *145 open() "/var/www/html/login.action" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /login.action HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:11 [error] 211#211: *147 open() "/var/www/html/_all_dbs" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /_all_dbs HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:11 [error] 211#211: *149 open() "/var/www/html/.DS_Store" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /.DS_Store HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:11 [error] 211#211: *151 open() "/var/www/html/.env" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /.env HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:11 [error] 211#211: *153 open() "/var/www/html/.git/config" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /.git/config HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:11 [error] 211#211: *155 open() "/var/www/html/s/9383e25333e2635313e24393/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /s/9383e25333e2635313e24393/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:11 [error] 211#211: *156 open() "/var/www/html/config.json" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /config.json HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:11 [error] 211#211: *157 open() "/var/www/html/telescope/requests" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /telescope/requests HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:39:11 [error] 211#211: *158 open() "/var/www/html/info.php" failed (2: No such file or directory), client: 178.128.207.138, server: localhost-nginx-proxy-manager, request: "GET /info.php HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:40:00 [error] 231#231: *189 open() "/var/www/html/@vite/env" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /@vite/env HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:01 [error] 231#231: *192 open() "/var/www/html/actuator/env" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /actuator/env HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:01 [error] 231#231: *195 open() "/var/www/html/server" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /server HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:02 [error] 231#231: *199 open() "/var/www/html/.vscode/sftp.json" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /.vscode/sftp.json HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:02 [error] 231#231: *202 open() "/var/www/html/about" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /about HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:03 [error] 231#231: *205 open() "/var/www/html/debug/default/view" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /debug/default/view?panel=config HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:03 [error] 231#231: *209 open() "/var/www/html/v2/_catalog" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /v2/_catalog HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:04 [error] 231#231: *212 open() "/var/www/html/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:04 [error] 231#231: *215 open() "/var/www/html/server-status" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /server-status HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:04 [error] 231#231: *218 open() "/var/www/html/login.action" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /login.action HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:05 [error] 231#231: *221 open() "/var/www/html/_all_dbs" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /_all_dbs HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:05 [error] 231#231: *225 open() "/var/www/html/.DS_Store" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /.DS_Store HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:06 [error] 231#231: *228 open() "/var/www/html/.env" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /.env HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:06 [error] 231#231: *231 open() "/var/www/html/.git/config" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /.git/config HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:06 [error] 231#231: *234 open() "/var/www/html/s/9383e25333e2635313e24393/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /s/9383e25333e2635313e24393/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:07 [error] 231#231: *237 open() "/var/www/html/config.json" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /config.json HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:07 [error] 231#231: *241 open() "/var/www/html/telescope/requests" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /telescope/requests HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:08 [error] 231#231: *244 open() "/var/www/html/info.php" failed (2: No such file or directory), client: 128.199.182.77, server: localhost-nginx-proxy-manager, request: "GET /info.php HTTP/1.1", host: "www.marcolino.space"
+2025/05/10 00:40:27 [error] 231#231: *270 open() "/var/www/html/wordpress/wp-admin/setup-config.php" failed (2: No such file or directory), client: 172.69.50.163, server: localhost-nginx-proxy-manager, request: "GET /wordpress/wp-admin/setup-config.php HTTP/1.1", host: "marcolino.space"
+2025/05/10 00:44:15 [error] 251#251: *424 open() "/var/www/html/@vite/env" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /@vite/env HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:15 [error] 251#251: *426 open() "/var/www/html/actuator/env" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /actuator/env HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:15 [error] 251#251: *430 open() "/var/www/html/server" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /server HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:15 [error] 251#251: *432 open() "/var/www/html/.vscode/sftp.json" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /.vscode/sftp.json HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:15 [error] 251#251: *435 open() "/var/www/html/about" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /about HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:15 [error] 251#251: *438 open() "/var/www/html/debug/default/view" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /debug/default/view?panel=config HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *440 open() "/var/www/html/v2/_catalog" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /v2/_catalog HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *442 open() "/var/www/html/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *444 open() "/var/www/html/server-status" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /server-status HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *447 open() "/var/www/html/login.action" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /login.action HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *449 open() "/var/www/html/_all_dbs" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /_all_dbs HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *451 open() "/var/www/html/.DS_Store" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /.DS_Store HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *453 open() "/var/www/html/.env" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /.env HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *456 open() "/var/www/html/.git/config" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /.git/config HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *459 open() "/var/www/html/s/9383e25333e2635313e24393/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /s/9383e25333e2635313e24393/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *461 open() "/var/www/html/config.json" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /config.json HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *462 open() "/var/www/html/telescope/requests" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /telescope/requests HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:44:16 [error] 251#251: *464 open() "/var/www/html/info.php" failed (2: No such file or directory), client: 207.154.212.47, server: localhost-nginx-proxy-manager, request: "GET /info.php HTTP/1.1", host: "nginx.marcolino.space"
+2025/05/10 00:53:13 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:53:13 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:53:21 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:53:21 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:54:11 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:54:11 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:54:43 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:54:43 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:56:13 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:56:13 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:56:56 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:56:56 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:57:40 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:57:40 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:57:44 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:57:49 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:57:49 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:58:22 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:58:22 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 00:59:50 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 00:59:50 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:07:19 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:07:19 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:09:02 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:09:02 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:10:06 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:10:07 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:10:21 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:10:21 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:11:40 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:11:40 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:12:02 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:13:00 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:13:00 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:13:14 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:22:32 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:22:32 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:23:27 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:23:27 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:25:10 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:25:10 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:25:49 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:25:49 [alert] 315#315: 512 worker_connections are not enough
+2025/05/10 01:25:58 [warn] 315#315: 512 worker_connections are not enough, reusing connections
+2025/05/10 01:25:58 [alert] 315#315: 512 worker_connections are not enough
